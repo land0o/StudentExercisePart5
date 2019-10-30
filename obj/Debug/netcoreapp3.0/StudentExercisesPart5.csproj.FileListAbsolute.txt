@@ -1,0 +1,4 @@
+C:\Users\marla\workspace\cSharp\BookWork\StudentExercisesPart5\StudentExercisesPart5\bin\Debug\netcoreapp3.0\StudentExercisesPart5.exe
+C:\Users\marla\workspace\cSharp\BookWork\StudentExercisesPart5\StudentExercisesPart5\obj\Debug\netcoreapp3.0\StudentExercisesPart5.csprojAssemblyReference.cache
+C:\Users\marla\workspace\cSharp\BookWork\StudentExercisesPart5\StudentExercisesPart5\obj\Debug\netcoreapp3.0\StudentExercisesPart5.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\cSharp\BookWork\StudentExercisesPart5\StudentExercisesPart5\obj\Debug\netcoreapp3.0\StudentExercisesPart5.AssemblyInfo.cs
